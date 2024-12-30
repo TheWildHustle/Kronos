@@ -1,6 +1,6 @@
 # Kronos - The Super App Devourer
 
-![Kronos Banner] (Imagine a dark, elegant banner with golden accents showing a modular system transformation)
+![alt text](image.png)
 
 ## Overview
 
